@@ -3,7 +3,7 @@ On a turn, a player rolls the die repeatedly. The goal is to accumulate as many 
 
 A player can also choose to hold (stop rolling the die) if they do not want to take a chance of rolling a 1 and losing all of their points from this turn. If the player chooses to hold, all of the points rolled during that turn are added to his or her score.
 
-When a player reaches a total of 100 or more points, the game ends and that player is the winner.
+When a player reaches a total of 100(in my case 20) or more points, the game ends and that player is the winner.
 
 
 Live demo: https://elastic-keller-884b3f.netlify.app/
